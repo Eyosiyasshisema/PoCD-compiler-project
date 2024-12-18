@@ -1,2 +1,2 @@
-# PoCD-compiler-project
-this a compiler project done by AASTU 4th year software engineering students
+# PoCD-compiler-and-system-component-design-project
+this a compiler and scd project done by AASTU 4th year software engineering students 
